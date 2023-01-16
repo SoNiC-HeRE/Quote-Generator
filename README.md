@@ -1,6 +1,6 @@
 #Quote Generator
 
-<h1>Languages Used</h1><br>
+<h1>Languages Used</h1>
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
