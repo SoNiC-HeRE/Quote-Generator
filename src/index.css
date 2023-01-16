@@ -11,3 +11,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  background-color: aqua;
+  padding: 4rem 5rem 5rem 4rem;
+  margin-top: 15rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p{
+  text-decoration: solid;
+  font-weight: 600;
+  padding-bottom: 0.5rem;
+  font-family: 'Neucha', cursive;
+  font-size: 2rem;
+}
+
+h2{
+  font-style: italic;
+  padding-bottom: 0.5rem;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 1rem;
+  text-align: right;
+  font-weight: 300;
+}
+
+button{
+  margin-right: 1.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#first{
+  text-align: left;
+  display: inline-block;
+  font-size: 2rem;
+  margin-right: 1rem;
+}
+
+#last{
+  text-align: right;
+  display: inline-block;
+  font-size: 2rem;
+  margin-left: 1rem;
+}
+
+#footer{
+  text-align: center;
+  margin-top: 5rem;
+  font-size: medium;
+  color: grey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
